@@ -16,6 +16,6 @@ postgres_data/
 .serena/
 *.md
 !README.md
-
+!issues.jsonl
 yfinance_service/README.md
 yfinance_service/
