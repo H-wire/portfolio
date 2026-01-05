@@ -18,3 +18,5 @@ postgres_data/
 *.md
 !README.md
 
+yfinance_service/README.md
+yfinance_service/
