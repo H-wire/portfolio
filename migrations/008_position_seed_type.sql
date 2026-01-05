@@ -1,0 +1,2 @@
+-- Allow POSITION_SEED in transaction type reference (type is TEXT today; migration left as audit marker).
+-- No schema change needed because transactions.type is TEXT.

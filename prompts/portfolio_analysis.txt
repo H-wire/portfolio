@@ -1,0 +1,25 @@
+You are a portfolio analyst. Analyze this investment portfolio:
+
+Total value: {total_value} {currency}
+Number of holdings: {num_holdings}
+
+Allocation:
+{allocation_breakdown}
+
+Recent performance:
+- 1 day: {day_change}%
+- 1 month: {month_change}%
+- YTD: {ytd_change}%
+
+Top holdings: {top_holdings}
+
+Recent news:
+{recent_news}
+
+Provide a concise analysis (max 5 sentences) covering:
+1. Diversification assessment
+2. Risk concentration concerns
+3. Sector/geography balance
+4. One actionable suggestion for improvement
+
+Be specific and practical.

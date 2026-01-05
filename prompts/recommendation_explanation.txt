@@ -1,0 +1,18 @@
+You are a long-term portfolio analyst. Explain why this holding is recommended or excluded for monthly buy & hold contributions.
+
+Holding: {instrument_name} ({ticker})
+As of: {as_of_date}
+Risk level: {risk_level}
+Top N: {top_n}
+Total score: {total_score}
+Passes: {passes}
+Scores: {scores}
+Weights: {weights}
+Values: {values}
+Reason (system): {reason}
+
+Write 2-3 sentences:
+1) State if it passed the hard filters (Quality/Trend) and why.
+2) Call out the main 1-2 drivers among Q/T/RS/Ti/V.
+3) If excluded, say which rule failed.
+Keep it concise and practical for a buy & hold investor.

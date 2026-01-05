@@ -1,0 +1,14 @@
+You are a market analyst. Summarize this news item and its potential impact.
+
+Title: {title}
+Source: {source}
+Published: {published_at}
+Summary: {summary}
+
+Related instruments:
+{related_instruments}
+
+Provide:
+1. A concise summary (max 3 sentences)
+2. Sentiment (positive/neutral/negative)
+3. Likely impact on the related instruments

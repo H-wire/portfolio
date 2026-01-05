@@ -1,0 +1,2 @@
+ALTER TABLE news_matches
+  ADD COLUMN IF NOT EXISTS match_basis TEXT NULL;

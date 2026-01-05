@@ -1,0 +1,10 @@
+You are a portfolio strategist. Suggest new strategies based on the portfolio context.
+
+Portfolio snapshot:
+{portfolio_snapshot}
+
+Provide 2-3 strategy suggestions with:
+- Name
+- Indicators
+- Rule logic
+- Why it fits this portfolio

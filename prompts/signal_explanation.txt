@@ -1,0 +1,19 @@
+You are a financial analyst. Analyze this trading signal:
+
+Signal: {signal_type}
+Instrument: {instrument_name} ({ticker})
+Date: {date}
+Technical indicators:
+{indicator_values}
+
+Recent price action:
+{price_history_summary}
+
+Rule that triggered: {triggered_rule}
+
+Provide a concise explanation (max 3 sentences) of:
+1. Why this signal triggered from a technical perspective
+2. What it suggests about the current trend
+3. Any cautions or considerations
+
+Keep it clear and actionable for a buy & hold investor.
