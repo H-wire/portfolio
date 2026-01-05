@@ -14,5 +14,7 @@ pnpm-debug.log*
 postgres_data/
 .beads/
 .ai/
+.serena/
 *.md
+!README.md
 
